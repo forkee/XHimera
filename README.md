@@ -1,4 +1,4 @@
-<h2><strong>XHimera Staging Repository (Version 2.0.1)</strong></h2>
+<h2><strong>XHimera Staging Repository (Version 1.1.0)</strong></h2>
 
 <p>XHimera is a cutting edge cryptocurrency, with many features not available in most other cryptocurrencies.</p>
 <p>Anonymized transactions using coin mixing technology, we call it <em>Obfuscation</em>.</p>
